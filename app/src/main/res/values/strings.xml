@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Evaluation</string>
+    <string name="Encuesta">Encuesta</string>
+    <string name="Categoria">Categoria</string>
+    <string name="Lista_de_comida">Lista de comida</string>
+    <string name="Lista_de_encuestados">Lista de encuestados</string>
+</resources>
